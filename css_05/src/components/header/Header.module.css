@@ -1,0 +1,16 @@
+
+.header {
+  background-color: rgb(31, 6, 31);
+  color: teal;
+  padding: 5px 10px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.loginBtn{
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    border:none;
+}
