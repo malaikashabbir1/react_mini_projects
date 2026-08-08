@@ -1,0 +1,13 @@
+*{
+  font-family: century gothic;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(8, 6, 6);
+  color: #fff;
+}
+
+.btn{
+  background-color: hotpink;
+  padding: 20px;
+  margin : 20px;
+}
