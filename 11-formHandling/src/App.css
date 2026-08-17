@@ -1,0 +1,8 @@
+*{
+  font-family: century gothic;
+}
+
+input, button{
+  padding: 20px;
+  margin: 10px;
+}
