@@ -1,0 +1,9 @@
+.main_div{
+  display: flex;
+  gap:10px;
+}
+
+.image{
+  width: 200px;
+  height: 200px;
+}
